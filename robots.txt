@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maedeabm.github.io/al-folio/sitemap.xml
+Sitemap: https://maedeabm.github.io/sitemap.xml
